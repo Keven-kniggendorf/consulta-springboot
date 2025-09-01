@@ -2,7 +2,7 @@
 
 ## 📖 Sobre o Projeto
 Este repositório foi criado para documentar e organizar meus estudos em **Spring Boot**.  
-A ideia é que ele sirva como guia de consulta rápida, contendo exemplos práticos, projetos e anotações sobre os principais recursos do framework.
+A ideia é que ele sirva como guia de consulta rápida, contendo exemplos práticos que criei, projetos e anotações sobre os principais recursos do framework.
 
 ---
 
@@ -68,5 +68,6 @@ O próximo grande tópico a ser estudado e implementado será a **segurança de 
 - [ ] Autenticação e autorização de endpoints  
 - [ ] Segurança baseada em tokens **JWT (JSON Web Token)**  
 - [ ] Configuração de **CORS** para permitir acesso de diferentes origens  
+
 
 
